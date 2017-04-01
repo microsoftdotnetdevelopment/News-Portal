@@ -1,0 +1,29 @@
+A week after Facebook launched Universal 2nd Factor (U2F) Security Keys to secure accounts with second-factor authentication feature “login approvals”, the social media giant has unveiled a new tool that adds an extra security layer when you go for password recovery.
+
+The new tool will ask Facebook account users to provide additional authentication as part of the recovery process at GitHub — a software development platform that hosts some of the most popular software in the world.
+
+“We need something better — a way to recover access, using identities and services you trust, regardless of whether they are associated with an email address or a phone number. This process needs to be easy, secure, and respectful of your privacy,” Brad Hill, a Security Engineer at Facebook, wrote in a post.
+
+Why is the tool needed?
+
+The easiest way to hack all of your accounts at once is through your email.
+
+Suppose you have linked all your social media and other accounts with a single email ID. If a hacker gets access to that account, he/she can compromise it because once hackers have access to your account, they can go to your other linked accounts, enter your email address and press that link that says, “Forgot your password?”
+
+Then hackers go back to your compromised email account inbox and open the email that lets the hackers reset the password.
+
+The new tool will add an extra layer of security and make it difficult for hackers to compromise the account.
+
+Additional authentication
+
+Starting Tuesday, users will be able to use Facebook account to provide additional authentication as part of the recovery process at GitHub.
+
+The users need to set up this method in advance by saving a recovery token with their Facebook accounts.
+
+“A recovery token is encrypted so Facebook can’t read your personal information. If you ever need to recover your GitHub account, you can re-authenticate to Facebook and we will send the token back to GitHub with a time-stamped counter-signature,” Hill added.
+
+“Facebook doesn’t share your personal data with GitHub, either; they only need Facebook’s assertion that the person recovering is the same who saved the token, which can be done without revealing who you are,” he noted.
+
+Last week, Facebook took the account protection a step further with Security Key.
+
+Users can buy and register a physical security key to their accounts so that the next time they log in after enabling login approvals, they simply have to tap a small hardware device that is attached in the USB drive of their computers.

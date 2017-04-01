@@ -1,0 +1,7 @@
+Apple is likely to introduce iPhone 8 with wireless charging in September this year. The rumour has now got meaningful weight from Apple itself. The company has joined Wireless Power Consortium, developer of Qi wireless charging standard.
+
+Apple seems to have joined the consortium recently. The 9to5Mac reports that a cached image from week ago didn't include the company. Earlier rumours hinted at Apple developing its own long range wireless charging system but those hopes are now dashed. By joining Wireless Power Consortium, Apple seems to be adopting the Qi standard as well.
+
+"Apple is an active member of many standards development organizations, as both a leader and contributor. Apple is joining the Wireless Power Consortium to be able to participate and contribute ideas to the open, collaborative development of future wireless charging standards. We look forward to working together with the WPC and its members," the company said in a statement issued to BusinessInsider.
+
+But, this is not the first time Apple is supporting Qi standard. Apple already uses a modified version of Qi for Apple Watch. The tech giant could adopt similar strategy for its next iPhone as well. For now, the dream of wireless charging an iPhone without placing it on a pad will likely remain a dream.

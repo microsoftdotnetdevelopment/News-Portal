@@ -1,0 +1,62 @@
+-------------------------------------------------------------ASP .NET-------------------------------
+
+Explore with one example of DropDownList , TextBox , Button , Label , Image , RadioButton , CheckBox .
+
+Read about the state management technique for both client side and server side.
+
+Example of HiddenField and ViewState .
+
+
+
+------------------------------------------------------------Sql Server-----------------------------
+
+Revise all below keywords based queries :
+
+Identifying Data types ?
+Working with DQL statements with select command.
+Selecting Retrieving attributes e.g. columns from table ?
+Selecting the columns with customizing the display means changing the name of column for display ?
+Performing Calculations on columns of tables with arithmetic operations ?
+Retrieving selected rows with where clause and comparison operators  like =, < . >= etc?
+Retrieving records with logical operators ? And, OR , NOT ?
+Retrieving Records with range operators like between and not between 
+Retrieving records with in and not in operators .
+Retrieving Records that match a pattern with like keyword and wildcards .
+Retrieving records that contain null values.
+Retrieving records to be displayed in a sequence by using order by .
+Retrieving records from the top of a table by using top keywords ?
+Retrieving records without duplication of values by using distinct keyword ?
+Working with string functions.
+Working with Conversion functions 
+Working with Date Functions.
+Working with Mathematical functions.
+Working with Aggregate functions.
+Grouping data by using group by and having ?
+Querying data by using joins .
+Working with inner joins ?
+Working with outer joins ? Like left outer, right outer  and full outer joins ?
+Working with cross joins.
+Working with self joins .
+Working with Equi joins .
+Working with Subqueries ?
+Using in and exists keywords?
+Working with Modified Comparison operators? Like  > ALL , > ANY , =ANY etc .
+Combining result sets by using Union , Except and Intersect operators.
+Explaining Various system databases like master, tempdb, model and msdb .
+Explaining the database files  like primary,secondary and transaction log files.
+Creating, altering, renaming and droping User-defined database.  
+Creating, altering, renaming and droping  user defined tables as well as inserting rows and inserting partial data in it.
+Working with identity property in tables.
+Implementing Data integrity with Applying Constraints, Applying rules and creating user-defined data types.
+Creating Synonyms of tables.
+Copying table into new table.
+Updating and deleting existing rows.
+Difference between delete, drop and truncate .
+
+
+-------------------------------------------------------------Jquery  
+
+Explore about all methods shared in previous file.
+
+
+

@@ -1,0 +1,14 @@
+The U.S. Patent and Trademark Office on Tuesday granted Amazon a patent for a method to guide packages released from drones safely to the ground.
+Previously the e-commerce giant had publicly released demo videos of its drones landing in yards to drop off packages. The company has testing for several years to determine the best method to deliver to customers in the future.
+The patent suggests Amazon is considering keeping its drones high above customers' homes, an approach that could be more efficient and safe. In the document, Amazon said that landing a drone takes more time and energy than releasing a package from high in the sky. If Amazon's drones don't land in yards, this prevents potentially dangerous collisions between the drones and any people, pets or objects in a customer's yard.
+Related: Amazon makes its first drone delivery in Britain
+The patent also describes how Amazon's drones would use magnets, parachutes or spring coils to release the delivery while in mid-flight. Once the package is released, the drone would then monitor the descending box to make sure it's dropping properly onto the desired landing patch.
+amazon drone patent 4
+For example, wind could potentially blow a package into a balcony, power line or tree. To solve this, Amazon's drones would radio a message to an off-course package, instructing it to deploy a parachute, compressed air canister or landing flap.
+amazon drone patent 5
+It's unclear when Amazon will launch drone delivery in the United States. Its current plan, which calls for automated drones flying without the direct supervision of a human, isn't legal today.
+Amazon featured Prime Air in a light-hearted Super Bowl ad, in which Alexa told a customer she could look for delivery of Doritos soon. But the ad wasn't meant to be taken literally, and there is no launch date for the service in the United States.
+
+ 
+Amazon did not immediately respond to a request for comment on the patent awarded Tuesday.
+Competitors such as Google have shown off similar plans, in which a package is dropped from the sky. Late last year the drone delivery firm Flirtey completed an automated drone trial with 77 packages delivered from a 7-Eleven in Reno, Nevada. The flights were legal because Flirtey had a human supervise the flights, which were completed within a mile of the 7-Eleven. After extensive testing, Flirtey said it had found a way to drop a Slurpee without spilling a single sip.

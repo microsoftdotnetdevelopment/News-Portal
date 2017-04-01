@@ -1,0 +1,6 @@
+Yahoo has launched Caller ID and photo upload features for its Yahoo Mail app that will help users identify a caller from their email contact list and also access their phone camera roll on a desktop.
+The new features are now available and users can update Yahoo Mail app in the App Store (iOS 4.13) and Google Play (Android 5.13).
+The new Caller ID feature will show a user who is calling even if the number is not saved in the smartphone, the company said in a statement. Yahoo Mail uses contact information from emails.
+As soon as a user contacts you, the contact's name will surface with the call and Yahoo Mail will update names in your call history or when you dial.
+To enable this feature, simply go to Settings, then Phone, forward to "Call Blocking and Identification", toggle the switch for Yahoo Mail and save the settings. Once the new photo upload feature is enabled, your recent camera roll photos will be instantly available when accessing your Yahoo Mail account on desktop.
+To enable this feature user's need to open the Yahoo Mail app on iOS or Android, go to Settings, then, Photo upload and tap the "Upload photos" toggle.
