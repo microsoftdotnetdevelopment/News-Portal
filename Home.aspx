@@ -32,7 +32,7 @@
                           <asp:Image ID="imgnews" runat="server" ImageUrl='<%# "~/Data/Images/"+ System.IO.Path.GetFileName(Eval("Images").ToString())%>' Height="99" Width="143" />
               <h3><%# Eval("Heading") %></h3>
               <p><%#Eval("Subheading") %></p>
-              <a class="readmore" href="#">read more</a> </div> 
+              <a class="readmore" href="explain.aspx">read more</a> </div> 
                   </ItemTemplate>
               </asp:Repeater>
               </div>
@@ -114,7 +114,7 @@
       </div>
       <div class="sidebar floatright">
         <div class="single_sidebar"> <img src="images/add1.png" alt="" /> </div>
-        <div class="single_sidebar">
+        <div class="single_sidebar" id="subscribee">
           <div class="news-letter">
             <h2>Ask for Newsletter</h2>
             <p>Sign up to receive our free newsletters!</p>

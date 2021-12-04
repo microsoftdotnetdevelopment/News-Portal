@@ -1,4 +1,4 @@
-﻿<%--<%@ Page Title="" Language="C#" MasterPageFile="~/Admin/Admin.master" AutoEventWireup="true" CodeFile="Messageadmin.aspx.cs" Inherits="Messageadmin" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Admin/Admin.master" AutoEventWireup="true" CodeFile="Messageadmin.aspx.cs" Inherits="Messageadmin" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 </asp:Content>
@@ -64,4 +64,4 @@
         </div>
     </div>
 </asp:Content>
---%>
+

@@ -24,19 +24,16 @@
       <div class="logo floatleft"><a href="#"><img src="images/logo.png" alt="" /></a></div>
       <div class="top_menu floatleft">
         <ul>
-          <li><a href="index.html">Home</a></li>
-          <li><a href="#">About</a></li>
-          <li><a href="#">Contact us</a></li>
-          <li><a href="#">Subscribe</a></li>
-
-           
-              <asp:LoginView ID="LoginView1" runat="server">
+          <li><a href="Home.aspx">Home</a></li>
+          <li><a href="Contactus.aspx#services-section">About</a></li>
+          <li><a href="Contactus.aspx#contact-section">Contact us</a></li>
+          <li><a href="Home.aspx#subscribee">Subscribe</a></li>           
+            <asp:LoginView ID="LoginView1" runat="server">
             <LoggedInTemplate>
                     <li>
                         <a>Welcome, 
-                            <asp:LoginName ID="LoginName1" runat="server" /> ,
+                            <asp:LoginName ID="LoginName1" runat="server" />,
                             <asp:LoginStatus ID="LoginStatus1" runat="server" />
-
                         </a>
                     </li>
                 </LoggedInTemplate>
@@ -72,43 +69,15 @@
           </ul>
         </li>
         <li><a href="#">sports</a></li>
-        <li><a href="#">tech</a>
-          <ul>
-            <li><a href="#">Single item</a></li>
-            <li><a href="#">Single item</a></li>
-            <li><a href="#">Single item</a></li>
-            <li><a href="#">Single item</a></li>
-            <li><a href="#">Single item</a></li>
-          </ul>
+        <li><a href="#">tech</a>     
         </li>
         <li><a href="#">business</a></li>
         <li><a href="#">Movies</a>
-          <ul>
-            <li><a href="#">Single item</a></li>
-            <li><a href="#">Single item</a></li>
-            <li><a href="#">Single item</a>
-              <ul>
-                <li><a href="#">Single item</a></li>
-                <li><a href="#">Single item</a></li>
-                <li><a href="#">Single item</a></li>
-                <li><a href="#">Single item</a></li>
-                <li><a href="#">Single item</a></li>
-              </ul>
-            </li>
-            <li><a href="#">Single item</a></li>
-            <li><a href="#">Single item</a></li>
-          </ul>
-        </li>
+          </li>
         <li><a href="#">entertainment</a></li>
         <li><a href="#">culture</a></li>
         <li><a href="#">Books</a>
-          <ul>
-            <li><a href="#">Single item</a></li>
-            <li><a href="#">Single item</a></li>
-            <li><a href="#">Single item</a></li>
-            <li><a href="#">Single item</a></li>
-            <li><a href="#">Single item</a></li>
-          </ul>
+         
         </li>
         <li><a href="#">classifieds</a></li>
         <li><a href="#">blogs</a></li>
