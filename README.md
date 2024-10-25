@@ -89,6 +89,7 @@ Admins have full control to:
 Add, edit, or delete news articles.
 Manage user accounts.
 View and respond to messages sent via the contact page.
+
 4. How do I set up News Portal on my local machine?
 You’ll need Visual Studio, .NET Framework, and SQL Server.
 Here’s a quick setup:
