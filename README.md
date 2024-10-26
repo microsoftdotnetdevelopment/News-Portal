@@ -72,3 +72,52 @@ git clone https://github.com/"Your git hub username"/News-Portal.git
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+
+
+## Frequently Asked Questions (FAQ)
+
+1. What is News Portal?
+News Portal is a web platform where users can browse news articles across various categories, like sports and fashion. It includes an admin panel for managing content and a contact page for inquiries.
+
+2. Who can use News Portal?
+Anyone can use it! Regular users can browse news articles, view detailed content, and send messages to the admin, while admins can manage news articles and user accounts.
+
+3. What features does the Admin Panel include?
+Admins have full control to:
+
+Add, edit, or delete news articles.
+Manage user accounts.
+View and respond to messages sent via the contact page.
+
+4. How do I set up News Portal on my local machine?
+You’ll need Visual Studio, .NET Framework, and SQL Server.
+Here’s a quick setup:
+
+Clone the repository from GitHub.
+Open the solution in Visual Studio.
+Restore NuGet packages.
+Set up your database in SQL Server and update the connection string in the web.config.
+Run migrations if needed, then build and run the project.
+
+5. How can I contribute to this project?
+Contributions are welcome! You can:
+
+Fork the repository.
+Create a new branch for your feature.
+Make your changes, commit, and push to your branch.
+Open a pull request.
+
+6. What technologies are used in News Portal?
+
+Frontend: HTML, CSS, JavaScript, Bootstrap
+Backend: ASP.NET, C#
+Database: SQL Server
+
+7. How can I contact the admin?
+Simply use the Contact Page on the platform to send a message directly to the admin.
+
+8. What’s the project license?
+News Portal is licensed under the MIT License. You can review the LICENSE file in the repository for more details.
+
+
