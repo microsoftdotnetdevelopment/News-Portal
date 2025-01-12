@@ -27,3 +27,5 @@ Update-Database
 In Visual Studio, press F5 or click on Start to build and run the project.
 The News Portal should open in your browser, and you’ll be able to explore the site.
 
+     dotnet new sln -n YourSolutionName
+
